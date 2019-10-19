@@ -1,6 +1,6 @@
 # PythonPrograms
 
-Ques 1
+Question 1
 Number Pattern
 
 Print the following pattern for n number of rows.
@@ -13,7 +13,7 @@ For eg. N = 5
 1234554321
 
 
-Ques 2
+Question 2
 Reverse Every Word
 
 Given a string S, reverse each word of a string individually. For eg. if a string is "abc def", reversed string should be "cba fed".
