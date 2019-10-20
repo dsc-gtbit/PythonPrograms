@@ -53,7 +53,7 @@ Sample Output :
 7
 
 
-Ques 4
+Question 4
 Decimal to Binary
 
 Given a decimal number (integer N), convert it into binary and print.
